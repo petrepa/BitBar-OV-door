@@ -3,7 +3,7 @@ BitBar-plugin som sjekker om Omega Verksted er ope eller ikkje.
 
 ![OV-Door BitBar](/images/screenshot.png)
 
-Skriptet viser også berre status om maskina di er tilkopla eduroa, så du slepp å ha ekstraikon i statusbaren din når du ikkje er på campus.
+Skriptet viser også berre status om maskina di er tilkopla eduroam, så du slepp å ha ekstraikon i statusbaren din når du ikkje er på campus.
 
 ## Installering
 Installer [BitBar](https://getbitbar.com/)

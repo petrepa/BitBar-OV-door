@@ -15,7 +15,7 @@ def ssid_fetch():
     process.wait()
     out_string = out.decode(encoding)
 
-    ssid_check = re.search("H0101-5G", out_string)
+    ssid_check = re.search("eduroam", out_string)
 
     return ssid_check
 

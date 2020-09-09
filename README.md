@@ -1,5 +1,5 @@
 # BitBar-OV-door
-BitBar-plugin som sjekker om Omega Verksted er ope eller ikkje. 
+BitBar-plugin som sjekker om [Omega Verksted](https://omegav.no) er ope eller ikkje. 
 
 ![OV-Door BitBar](/images/screenshot.png)
 
